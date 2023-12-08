@@ -7,7 +7,7 @@ Current projects:
 - hasel actuator crab robot
 - bacteria neural net
 - human cortical organoids
-- prototyping of our pressurized biosaftey cabinet with passbox and on glass video/data display
+- prototyping of our pressurized biosafety cabinet with passbox and on glass video/data display
 - prototyping of our MEA implant
 - prototyping of our bidirectional BCI
 - BCI software and GUI
