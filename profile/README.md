@@ -19,6 +19,7 @@ Located at the crossroads of innovation in Brazil and the U.S., Synthetic Intell
 - **Bidirectional BCI Hardware**: Forging tools for seamless brain-to-computer communication.
 - **BCI Software and GUI**: Developing the interface for tomorrow's neural computing.
 - **HASEL Actuator Crab Robot**: Bridging the gap between robotics and organic locomotion.
+- **Encrypted Radio Communication**: Bringing security to robots and BCI
 
 ## Connect with Us
 For inquiries related to **press, collaboration, or funding**, reach out to us at:
