@@ -26,4 +26,6 @@ For inquiries related to **press, collaboration, or funding**, reach out to us a
 - 📧 soul.syrup@yandex.com
 - 📧 soul.syrupp@gmail.com
 
+Our repositories are located at https://github.com/Unlimited-Research-Cooperative
+
 Join us as we sculpt the vanguard of synthetic intelligence, where each project is a step towards a future redefined by the harmonious blend of biology and technology.
