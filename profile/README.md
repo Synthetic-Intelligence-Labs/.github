@@ -1,16 +1,37 @@
+
 <div align="center">
   <a href="https://www.tiktok.com/@synthetic_intelligence">
     <img src="https://img.shields.io/badge/TikTok-synthetic_intelligence_labs-ff0080?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000" alt="TikTok Profile">
   </a>
+</div>
 
+<div align="center">
+  <a href="https://discord.gg/GVyaBEjCY2">
+    <img src="https://img.shields.io/static/v1?label=Unlimited%20Research%20Cooperative&message=Join%20Now&color=7289DA&logo=discord&style=for-the-badge" alt="Discord server">
+  </a>
+</div>
+<div align="center">
+  <a href="https://discord.gg/HBHGvDxDmt">
+    <img src="https://img.shields.io/static/v1?label=Metaverse%20Crowdsource&message=450%20Members&color=7289DA&logo=discord&style=for-the-badge" alt="Discord server">
+  </a>
+</div>
 
-# Welcome to Synthetic Intelligence Labs
-
+<div align="center">
+  <a href="https://www.tiktok.com/@metaversecrowdsourcebr">
+    <img src="https://img.shields.io/badge/TikTok-metaverse_crowdsource-ff0080?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000" alt="TikTok Profile">
+  </a>
+</div>
+ <br>
+  <br>
+<div align="center">
+  
+# Synthetic Intelligence Labs
+<br><br>
+<br><br>
 ### Pioneering the Future of Synthetic Biology and Intelligence
 
 Located at the crossroads of innovation in Brazil and the U.S., Synthetic Intelligence Labs is a beacon of avant-garde research in bio-silicon synergetic systems. We are dedicated to transcending the boundaries of biological and artificial intelligence.
 <br><br>
-<div align="center">
   <a href="https://www.patreon.com/synthetic_intelligence">
     <img src="https://your-patreon-logo-url-here" alt="Support us on Patreon">
   </a>
