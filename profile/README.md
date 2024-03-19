@@ -70,6 +70,9 @@ Located at the crossroads of innovation in Brazil and the U.S., Synthetic Intell
 - [**FinalSpark**](https://finalspark.com/): Delving into human cortical spheroid learning mechanisms.
   
 - [**University of Reading**](https://sites.google.com/site/complexlivingmachineslab): Innovative use of bacteria in neural networks.
+
+- [**City, University of London**](https://www.pinotsislab.com/): Systems and states, including harmonics in TES EEG data.
+
 <br>
 <br>
 <br>
