@@ -30,7 +30,7 @@
 <br><br>
 ### Pioneering the Future of Synthetic Biology and Intelligence
 
-Located at the crossroads of innovation in Brazil and the U.S., Synthetic Intelligence Labs is a beacon of avant-garde research in bio-silicon synergetic systems. We are dedicated to transcending the boundaries of biological and artificial intelligence.
+Located at the crossroads of innovation in the United Kingdom, Brazil and the United States, Synthetic Intelligence Labs is a beacon of avant-garde research in bio-silicon synergetic systems. We are dedicated to transcending the boundaries of biological and artificial intelligence.
 <br><br>
   <a href="https://www.patreon.com/synthetic_intelligence">
     <img src="https://your-patreon-logo-url-here" alt="Support us on Patreon">
