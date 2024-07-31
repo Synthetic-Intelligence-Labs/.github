@@ -78,8 +78,7 @@ Located at the crossroads of innovation in the United Kingdom, Brazil and the Un
 <br>
 Connect with Us
 For inquiries related to press, collaboration, or funding, reach out to us at:
-- 📧 soul.syrup@yandex.com
-- 📧 soul.syrupp@gmail.com
+- 📧 info@syntheticintelligencelabs.com
 
 Our repositories are located at https://github.com/Unlimited-Research-Cooperative
 <br>
